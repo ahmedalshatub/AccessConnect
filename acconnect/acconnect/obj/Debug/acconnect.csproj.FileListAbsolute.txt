@@ -1,0 +1,9 @@
+E:\acconnect\acconnect\bin\Debug\acconnect.exe.config
+E:\acconnect\acconnect\bin\Debug\acconnect.exe
+E:\acconnect\acconnect\bin\Debug\acconnect.pdb
+E:\acconnect\acconnect\obj\Debug\acconnect.csprojResolveAssemblyReference.cache
+E:\acconnect\acconnect\obj\Debug\acconnect.Form1.resources
+E:\acconnect\acconnect\obj\Debug\acconnect.Properties.Resources.resources
+E:\acconnect\acconnect\obj\Debug\acconnect.csproj.GenerateResource.Cache
+E:\acconnect\acconnect\obj\Debug\acconnect.exe
+E:\acconnect\acconnect\obj\Debug\acconnect.pdb
